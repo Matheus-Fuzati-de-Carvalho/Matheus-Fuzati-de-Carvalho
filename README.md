@@ -1,1 +1,1 @@
-Graduando em Data Science I Análise de Dados I Python I R I Machine Larning I SQL I PowerBI I Tableau I Big Data
+Business Intelligence | Ciência de dados | Data Analytics | ETL | Power BI | Looker | Python | SQL | DAX | M Language | Data Visualization | Google Cloud | BigQuery | Automação de Processos (RPA) | Excel Avançado
