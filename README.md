@@ -1,1 +1,1 @@
-Business Intelligence | Ciência de dados | Data Analytics | ETL | Power BI | Looker | Python | SQL | DAX | M Language | Data Visualization | Google Cloud | BigQuery | Automação de Processos (RPA) | Excel Avançado
+
