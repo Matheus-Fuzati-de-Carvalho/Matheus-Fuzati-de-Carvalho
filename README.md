@@ -50,4 +50,4 @@ Sou **Analista de Inteligência de Mercado** e **Graduando em Ciência de Dados*
 
 ## 📈 Contato e Redes
 
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/matheus-fuzati-de-carvalho-6a80a11a3/))
+- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/matheus-fuzati-de-carvalho-6a80a11a3/)) https://www.linkedin.com/in/matheus-fuzati-de-carvalho-6a80a11a3/
