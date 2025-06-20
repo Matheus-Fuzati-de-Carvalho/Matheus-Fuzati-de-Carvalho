@@ -4,7 +4,7 @@
 
 ## 👋 Sobre mim
 
-Sou **Analista de Inteligência de Mercado** e **Graduando em Ciência de Dados**, com sólida experiência em **processos de Engenharia de Dados**, atuando do início ao fim do pipeline de dados (ETL). Tenho domínio na extração de dados de sistemas ERP, CRM e APIs com Python e SQL, construção de Data Warehouses, processamento em staging area, criação de dataflows, modelagem de dadose desenvolvimento de dashboards com Power BI e Looker Studio.
+Sou **Analista de Inteligência de Mercado** e **Graduando em Ciência de Dados**, com sólida experiência em **processos de Engenharia de Dados**, atuando do início ao fim do pipeline de dados (ETL). Tenho domínio na extração de dados de sistemas ERP, CRM e APIs com Python e SQL, construção de Data Warehouses, processamento em staging area, criação de dataflows, modelagem de dados e desenvolvimento de dashboards com Power BI e Looker Studio.
 
 ## 🧠 Habilidades Técnicas
 
